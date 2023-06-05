@@ -1,0 +1,10 @@
+nltk
+torch
+sentencepiece
+transformers 
+optimum
+onnxruntime
+onnx
+langchain 
+openai
+python-dotenv
