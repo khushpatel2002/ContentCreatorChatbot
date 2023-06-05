@@ -1,17 +1,8 @@
 # Content Creator Chatbot
 
-## Dependencies
+## Task Klimbb @Listed
 
-- nltk
-- torch
-- sentencepiece
-- transformers 
-- optimum
-- onnxruntime
-- onnx
-- langchain 
-- openai
-- python-dotenv
+The Content Creator Chatbot is an interactive chatbot designed to generate concise and appealing summaries for potential investors based on the description of a content creator. It leverages natural language processing (NLP) techniques and the OpenAI GPT-3 language model to provide personalized responses.
 
 ```Python
     pip install -r requirements.txt
