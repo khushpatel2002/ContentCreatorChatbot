@@ -4,8 +4,8 @@
 
 The Content Creator Chatbot is an interactive chatbot designed to generate concise and appealing summaries for potential investors based on the description of a content creator. It leverages natural language processing (NLP) techniques and the OpenAI GPT-3 language model to provide personalized responses.
 
-```Python
-    pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -13,42 +13,42 @@ The Content Creator Chatbot is an interactive chatbot designed to generate conci
 ### 1. Clone the repository:
 
 ```bash
-    git clone https://github.com/khushpatel2002/ContentCreatorChatbot.git
+git clone https://github.com/khushpatel2002/ContentCreatorChatbot.git
  ```
 
 ### 2. Create a virtual environment (optional but recommended):
 
 ```bash
-    make venv 
+make venv 
 ```
 or 
 ```bash
-    python3 -m venv .venv
+python3 -m venv .venv
 ```
 
 ### 3. Activate the virtual environment:
 
 ```bash
-    source .venv/bin/activate
+source .venv/bin/activate
 ```
 
 ### 4. Install the dependencies:
 ```bash 
-    make install 
+make install 
 ```
 or 
 ```bash 
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 5. Open the .env file and replace <OPENAI_API_KEY> with your actual OpenAI API key.
 
 ### 6. Run the chatbot: 
 ```bash 
-    make spawn 
+make spawn 
 ```
 or 
 ```bash 
-    python3 ContentCreatorChatbot.py
+python3 ContentCreatorChatbot.py
 ```
 
