@@ -51,4 +51,15 @@ or
 ```bash 
 python3 ContentCreatorChatbot.py
 ```
+### Follow the prompts and provide the necessary information about the content creator. The chatbot will generate a concise and appealing summary based on the input.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Acknowledgements
+- NLTK - Natural Language Toolkit library
+- Transformers
+- Optimum - Library for optimizing models.
+- OnnxRuntime - Open Neural Network Exchange (ONNX) runtime 
+- OpenAI - GPT-3
 
