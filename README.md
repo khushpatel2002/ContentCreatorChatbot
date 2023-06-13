@@ -1,7 +1,5 @@
 # Content Creator Chatbot
 
-## Task Klimbb @Listed
-
 The Content Creator Chatbot is an interactive chatbot designed to generate concise and appealing summaries for potential investors based on the description of a content creator. It leverages natural language processing (NLP) techniques, token optimization, inference optimization,.. and the OpenAI GPT-3 language model to provide personalized responses.
 
 ```bash
